@@ -1,4 +1,4 @@
-= { New Group Name } { New Group Type } Charter
+= Profiles Special Interest Group Charter
 
 == Introduction
 
