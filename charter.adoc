@@ -16,36 +16,30 @@ RISC-V Profiles are named groupings of standard processor ISA bases plus extensi
 
 The scope of the Profiles SIG includes the following activities: 
 *	Providing a forum for discussion of general Profiles-related issues and issues spanning multiple Profiles 
+
 *	Performing periodic outreach and “Gap Analyses” of Profile needs for current and future RISC-V markets 
+
 *	Using results from those Gap Analyses to determine what new Profiles are required and spawning new Task Groups as needed to develop them; examples might include proposing: 
 **	Updated releases of existing Profiles, e.g. RVA23 to RVA24
 **	Profiles for additional markets:  e.g. RVM (Microcontroller) Profile, HPC Profile, Automotive Profile 
 **	New types of Profiles, e.g. a Machine-level Profile 
+
 *	Developing policies with respect to RISC-V Profiles supporting continuity and managed evolution of the architecture 
 **	e.g. Deprecation and addition policies supporting forward & backward compatibility
+
 *	Maintain document containing general information about Profiles that is independent of specific Profiles
 **	e.g. Definitions of Profile families, types of optional extensions  
-*	Coordinating with:
-**	Target markets
-**	Software tools groups, regarding if/how Profiles are specified in the toolchain 
-**	System software groups, regarding if/how execution of software that does not comply with a Profile is restricted 
-**	Other stakeholders such as other RISC-V International groups (e.g. TSC, CSC, ARC, Platforms, ISA-related TGs, Marketing) and external organizations (e.g. RISE) 
-
 
 // == Exclusions (Optional)
 // 
 // While not currently in scope, the following items may be considered for future iterations:
 
-* [FEATURE 1]
-* [FEATURE 2]
-* [ADD MORE AS REQUIRED]
-
 == Collaborations
 
-To fulfill its objectives, the {New Group Name} {New Group Type} will engage with:
+To fulfill its objectives, the Profiles SIG will coordinate with key stakeholders such as:
 
-* [GROUP NAME 1] [GROUP TYPE 1]
-* [GROUP NAME 2] [GROUP TYPE 2]
-* [ADDITIONAL GROUPS AS NEEDED]
-
-NOTE: Ensure to replace all placeholders ({ }) with the actual names or information and remove any optional sections that are not applicable to your charter. Also, remove this note :)
+* Target markets
+*	Software tools groups, regarding if/how Profiles are specified in the toolchain 
+*	System software groups, regarding if/how execution of software that does not comply with a Profile is restricted 
+*	RISC-V International groups such as TSC (ARC, Platforms, ISA-related TGs), CSC, Marketing) 
+* Non-RISC-V organizations such as RISE 
