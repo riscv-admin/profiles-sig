@@ -2,15 +2,15 @@
 
 == Introduction
 
-The (RISC-V Profiles SIG) drives the strategy and policy of Profiles for identified RISC-V markets and coordinates with the Task Groups developing those Profiles.
+The RISC-V Profiles SIG drives the strategy and policy of Profiles for identified RISC-V markets and coordinates with the Task Groups developing those Profiles.
 
-== Definitions (Optional)
-
-RISC-V Profiles are named groupings of standard processor ISA bases plus extensions (each identified as “Mandatory” or “Optional”).  Profiles enable a market of compliant processor implementations and facilitate ecosystem support.  Profiles are released periodically to include newly ratified ISA extensions, as the RISC-V ISA evolves.  They facilitate long-term architectural continuity and managed evolution.  Profiles enable implementations that are feature-aligned across hardware providers, providing software development tools, operating systems, libraries, ABIs, and application software with a common target.  
+// == Definitions 
 
 == Background
 
-[PROVIDE CONTEXT ABOUT THE GROUP'S RELEVANCE AND ANY PERTINENT TECHNOLOGY].
+RISC-V Profiles are named groupings of standard processor ISA bases plus extensions (each identified as “Mandatory” or “Optional”).  Profiles enable a market of compliant processor implementations and facilitate ecosystem support.  Profiles are released periodically to include newly ratified ISA extensions, as the RISC-V ISA evolves.  They facilitate long-term architectural continuity and managed evolution.  Profiles enable implementations that are feature-aligned across hardware providers, providing software development tools, operating systems, libraries, ABIs, and application software with a common target.  
+
+// [PROVIDE CONTEXT ABOUT THE GROUP'S RELEVANCE AND ANY PERTINENT TECHNOLOGY].
 
 == Objectives
 
@@ -32,9 +32,9 @@ The scope of the Profiles SIG includes the following activities:
 **	Other stakeholders such as other RISC-V International groups (e.g. TSC, CSC, ARC, Platforms, ISA-related TGs, Marketing) and external organizations (e.g. RISE) 
 
 
-== Exclusions (Optional)
-
-While not currently in scope, the following items may be considered for future iterations:
+// == Exclusions (Optional)
+// 
+// While not currently in scope, the following items may be considered for future iterations:
 
 * [FEATURE 1]
 * [FEATURE 2]
