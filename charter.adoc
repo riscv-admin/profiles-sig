@@ -2,11 +2,11 @@
 
 == Introduction
 
-The {New Group Name} {New Group Type} aims to [INSERT CLEAR, CONCISE OVERALL MISSION STATEMENT IN 2-3 SENTENCES].
+The (RISC-V Profiles SIG) drives the strategy and policy of Profiles for identified RISC-V markets and coordinates with the Task Groups developing those Profiles.
 
 == Definitions (Optional)
 
-[TERM 1] refers to [DEFINITION 1]. It is critical because [EXPLAIN SIGNIFICANCE]. [INCLUDE ADDITIONAL TERMS/DEFINITIONS IF REQUIRED].
+RISC-V Profiles are named groupings of standard processor ISA bases plus extensions (each identified as “Mandatory” or “Optional”).  Profiles enable a market of compliant processor implementations and facilitate ecosystem support.  Profiles are released periodically to include newly ratified ISA extensions, as the RISC-V ISA evolves.  They facilitate long-term architectural continuity and managed evolution.  Profiles enable implementations that are feature-aligned across hardware providers, providing software development tools, operating systems, libraries, ABIs, and application software with a common target.  
 
 == Background
 
@@ -14,11 +14,23 @@ The {New Group Name} {New Group Type} aims to [INSERT CLEAR, CONCISE OVERALL MIS
 
 == Objectives
 
-The {New Group Name} {New Group Type} is committed to delivering [SPECIFY DELIVERABLE] with the following attributes:
+The scope of the Profiles SIG includes the following activities: 
+*	Providing a forum for discussion of general Profiles-related issues and issues spanning multiple Profiles 
+*	Performing periodic outreach and “Gap Analyses” of Profile needs for current and future RISC-V markets 
+*	Using results from those Gap Analyses to determine what new Profiles are required and spawning new Task Groups as needed to develop them; examples might include proposing: 
+**	Updated releases of existing Profiles, e.g. RVA23 to RVA24
+**	Profiles for additional markets:  e.g. RVM (Microcontroller) Profile, HPC Profile, Automotive Profile 
+**	New types of Profiles, e.g. a Machine-level Profile 
+*	Developing policies with respect to RISC-V Profiles supporting continuity and managed evolution of the architecture 
+**	e.g. Deprecation and addition policies supporting forward & backward compatibility
+*	Maintain document containing general information about Profiles that is independent of specific Profiles
+**	e.g. Definitions of Profile families, types of optional extensions  
+*	Coordinating with:
+**	Target markets
+**	Software tools groups, regarding if/how Profiles are specified in the toolchain 
+**	System software groups, regarding if/how execution of software that does not comply with a Profile is restricted 
+**	Other stakeholders such as other RISC-V International groups (e.g. TSC, CSC, ARC, Platforms, ISA-related TGs, Marketing) and external organizations (e.g. RISE) 
 
-* [ATTRIBUTE 1]
-* [ATTRIBUTE 2]
-* [ADD MORE AS REQUIRED]
 
 == Exclusions (Optional)
 
