@@ -18,10 +18,13 @@ The scope of the Profiles SIG includes the following activities:
 
 *	Providing a forum for discussion of general Profiles-related issues and issues spanning multiple Profiles 
 *	Performing periodic outreach and “Gap Analyses” of Profile needs for current and future RISC-V markets 
-*	Using results from those Gap Analyses, determine what new Profiles are required and spawning new Task Groups as needed to develop them; examples might include proposing: 
-**	Updated releases of existing Profiles, e.g. RVA23 to RVA24
-**	Profiles for additional markets, for example: RVM (Microcontroller) Profile, HPC Profile, Automotive Profile, SoftCPU Profile
-**	New types of Profiles, e.g. a Machine-level Profile 
+*	Using results from those Gap Analyses:
+** determine what new Profiles are required; examples might include: 
+***	Updated releases of existing Profiles, e.g. RVA23 to RVA24
+***	Profiles for additional markets, for example: RVM (Microcontroller) Profile, HPC Profile, Automotive Profile, SoftCPU Profile
+***	New types of Profiles, e.g. a Machine-level Profile  
+** prioritze Profile work
+** spawn new Task Groups as needed to develop them
 *	Developing policies with respect to RISC-V Profiles that support continuity and managed evolution of the architecture 
 **	e.g. Deprecation and/or Addition policies, supporting forward & backward compatibility
 *	Maintaining documents containing general information about Profiles that is independent of specific Profiles
