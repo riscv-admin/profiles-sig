@@ -27,8 +27,7 @@ The scope of the Profiles SIG includes the following activities:
 ** spawn Task Groups as needed to develop new Profiles
 *	Developing policies with respect to RISC-V Profiles that support continuity and managed evolution of the architecture 
 **	e.g. Deprecation and/or Addition policies, supporting forward & backward compatibility
-*	Maintaining documents containing general information about Profiles that is independent of specific Profiles
-**	e.g. Definitions of Profile families / target markets and terms such as Mandatory, Optional, and types of Optional extensions  
+*	Maintaining documents containing general information about Profiles that is independent of specific Profiles, such as definitions of Profile families / target markets and definitions of terms such as Mandatory, Optional, and types of Optional extensions  
 
 // == Exclusions (Optional)
 // 
