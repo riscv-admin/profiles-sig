@@ -23,7 +23,7 @@ The scope of the Profiles SIG includes the following activities:
 ***	Updated releases of existing Profiles, e.g. RVA23 to RVA24
 ***	Profiles for additional markets, for example: RVM (Microcontroller) Profile, HPC Profile, Automotive Profile, SoftCPU Profile
 ***	New types of Profiles, e.g. a Machine-level Profile  
-** prioritze Profile work
+** prioritize Profile work
 ** provide a Roadmap for future Profiles
 ** spawn Task Groups as needed to develop new Profiles
 *	Developing policies with respect to RISC-V Profiles that support continuity and managed evolution of the architecture 
